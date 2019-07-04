@@ -1,0 +1,14 @@
+C:\Users\VLAD\source\repos\ModuleDZGame1\ModuleDZGame1\bin\Debug\ModuleDZGame1.exe.config
+C:\Users\VLAD\source\repos\ModuleDZGame1\ModuleDZGame1\bin\Debug\ModuleDZGame1.exe
+C:\Users\VLAD\source\repos\ModuleDZGame1\ModuleDZGame1\bin\Debug\ModuleDZGame1.pdb
+C:\Users\VLAD\source\repos\ModuleDZGame1\ModuleDZGame1\obj\Debug\ModuleDZGame1.csprojAssemblyReference.cache
+C:\Users\VLAD\source\repos\ModuleDZGame1\ModuleDZGame1\obj\Debug\ModuleDZGame1.csproj.CoreCompileInputs.cache
+C:\Users\VLAD\source\repos\ModuleDZGame1\ModuleDZGame1\obj\Debug\ModuleDZGame1.exe
+C:\Users\VLAD\source\repos\ModuleDZGame1\ModuleDZGame1\obj\Debug\ModuleDZGame1.pdb
+C:\Users\VLAD\Desktop\С# dz\ModuleDZGame1\ModuleDZGame1\bin\Debug\ModuleDZGame1.exe.config
+C:\Users\VLAD\Desktop\С# dz\ModuleDZGame1\ModuleDZGame1\bin\Debug\ModuleDZGame1.exe
+C:\Users\VLAD\Desktop\С# dz\ModuleDZGame1\ModuleDZGame1\bin\Debug\ModuleDZGame1.pdb
+C:\Users\VLAD\Desktop\С# dz\ModuleDZGame1\ModuleDZGame1\obj\Debug\ModuleDZGame1.csprojAssemblyReference.cache
+C:\Users\VLAD\Desktop\С# dz\ModuleDZGame1\ModuleDZGame1\obj\Debug\ModuleDZGame1.csproj.CoreCompileInputs.cache
+C:\Users\VLAD\Desktop\С# dz\ModuleDZGame1\ModuleDZGame1\obj\Debug\ModuleDZGame1.exe
+C:\Users\VLAD\Desktop\С# dz\ModuleDZGame1\ModuleDZGame1\obj\Debug\ModuleDZGame1.pdb
